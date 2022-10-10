@@ -1,0 +1,5 @@
+- sử dụng: 
+    + "react-slick": "^0.29.0" ( https://www.npmjs.com/package/react-slick )
+    + StaticImage của thư viện " gatsby-plugin-image " ( https://www.npmjs.com/package/gatsby-plugin-image )
+    
+    
